@@ -3,5 +3,8 @@ public class runner {
         //versiyon 1
         System.out.println("hello GIT");
         System.out.println("git add. komutu ");
+        //versiyon 2
+
+        System.out.println("git commit -m\"\" ile versiyon oluşturulur. ");
     }
 }
