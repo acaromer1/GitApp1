@@ -9,6 +9,9 @@ public class runner {
         //versiyon 3
         System.out.println("geçmişe yolculuk");
         // versiyon 4
+        System.out.println("geçmişe yolculuk");
+        //versiyon 5
+        System.out.println("geçmişe yolcsadfsadsadasduluk");
 
     }
 }
