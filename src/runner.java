@@ -12,6 +12,8 @@ public class runner {
         System.out.println("geçmişe yolculuk");
         //versiyon 5
         System.out.println("geçmişe yolcsadfsadsadasduluk");
+        //versiyon 6
+        System.out.println("salı çaarşamba perşembe cuma ");
 
     }
 }
